@@ -58,4 +58,4 @@ Goal for 8/3/18: Build out the following business logic:
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2018 **Your Name Here**
+Copyright (c) 2018 **Rita Bennett-Chew**
