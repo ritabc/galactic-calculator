@@ -1,7 +1,10 @@
-class Birthday extends Date {
+class Birthday {
   constructor(years, months, days) {
-    super(years, months, days);
     this.birthday = new Date(years, months, days)
+  }
+
+  secondsSinceEpoch() {
+    return this.birthday.getTime();
   }
 
   ageInSeconds() {
